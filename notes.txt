@@ -1,0 +1,6 @@
+private and protected class are not define in java.
+          private default protected public
+class     no      yes     no        yes
+nested class yes  yes      yes      yes
+constr yes         yes     yes      yes
+parent reference=child object
